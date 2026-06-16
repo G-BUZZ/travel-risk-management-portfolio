@@ -1,0 +1,6 @@
+source_id,date_checked,source_name,source_type,topic,key_finding,reliability,limitation,follow_up
+SRC1,2026-06-15,Foreign Ministry Travel Advice - Lydora,official_government,security,Notes petty crime risk around transport hubs.,A,Country-level information; limited city detail.,Check local police/transport sources.
+SRC2,2026-06-15,Port Azure Transport Authority,local_official,transport,Planned road closures in central district.,A,Operational updates may change quickly.,Check again before movement.
+SRC3,2026-06-15,Lydora Health Ministry,official_government,health,Lists central hospital and emergency numbers.,A,No language availability detail.,Find verified English-speaking clinic options.
+SRC4,2026-06-15,Established regional newspaper,reputable_media,civil_unrest,Reports planned demonstration near Civic Square.,B,Media framing may omit route details.,Corroborate with official notice.
+SRC5,2026-06-15,Anonymous public social post,public_social_media,station_safety,Claims central station unsafe at night.,D,Unverified and vague.,Treat as weak signal only.

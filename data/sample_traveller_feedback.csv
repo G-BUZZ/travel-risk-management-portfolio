@@ -1,0 +1,7 @@
+feedback_id,date,trip_phase,theme,severity,summary,recommended_action
+F1,2026-06-01,arrival,transport,medium,Taxi queue at airport was disorganised after 22:00; traveller waited 45 minutes.,Recommend pre-booked transfer for late arrivals.
+F2,2026-06-02,hotel,accommodation,high,Reception at Budget Central Inn was unattended for 20 minutes after midnight.,Do not use for late-arriving travellers.
+F3,2026-06-02,movement,area_safety,medium,Traveller felt uncomfortable walking near central station after 21:30.,Add evening movement caution and alternate route.
+F4,2026-06-03,meeting,administration,low,Document check at venue entrance caused minor delay.,Remind travellers to keep ID accessible.
+F5,2026-06-04,health,medical,medium,Traveller had difficulty identifying English-speaking pharmacy.,Add medical access note and verified clinic/pharmacy list.
+F6,2026-06-04,departure,transport,low,Airport train was delayed 15 minutes.,Monitor transport authority before departure.

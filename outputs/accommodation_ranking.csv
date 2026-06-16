@@ -1,0 +1,6 @@
+option_id,property_name,district,distance_to_venue_km,distance_to_airport_km,access_control,neighbourhood_suitability,transport_reliability,emergency_access,operational_practicality,source_confidence,notes,average_score,category
+A1,Hotel Meridian Central,Civic Quarter,0.8,22,5,4,4,4,5,4,24/7 reception; good venue proximity; moderate evening crowding nearby.,4.33,Preferred option
+A2,Northgate Business Suites,Northgate,3.5,18,4,5,4,3,4,4,Quiet district; longer commute to venue; good access control.,4.00,Acceptable with notes
+A4,Airport Transit Hotel,Airport Zone,22,0.5,4,4,5,4,2,5,Strong for late arrival; weak for daily venue movement.,4.00,Acceptable with notes
+A3,Old Port Residence,Harbour Area,1.2,28,3,2,3,3,3,3,Convenient but near nightlife and petty theft reports in scenario.,2.83,Requires review
+A5,Budget Central Inn,Central Station,1.0,23,2,2,3,2,4,2,Low price but weak access control and station-area concerns.,2.50,Avoid unless justified

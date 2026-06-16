@@ -1,0 +1,6 @@
+signal_id,date_checked,source_type,topic,public_signal,initial_level,verification_status,recommended_action
+S1,2026-06-12,official_transport,road_closure,City transport authority announces central road closures on 15 June from 18:00 to 22:00.,orange,confirmed,Check hotel-to-venue and airport transfer route.
+S2,2026-06-12,public_event_notice,demonstration,Public event page announces peaceful demonstration in Civic Square.,yellow,needs official confirmation,Monitor police/municipality notices.
+S3,2026-06-13,verified_airport_notice,strike,Airport account reports possible baggage handling delay.,yellow,confirmed,Advise extra arrival time.
+S4,2026-06-13,unverified_social_media,rumour,Anonymous post claims central station unsafe tonight.,yellow,unverified,Do not report as fact; seek corroboration.
+S5,2026-06-14,official_police_notice,security_alert,Police notice reports temporary cordon near harbour after incident.,red,confirmed,Escalate if route or accommodation affected.
