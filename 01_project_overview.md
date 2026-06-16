@@ -53,3 +53,8 @@ This project does not:
 - A traveller feedback analysis workflow.
 - An urgent communication triage model.
 - Python-generated scoring and summary outputs.
+
+
+## Candidate positioning
+
+This project is best presented as evidence of junior travel risk management support skills: structured documentation, source validation, accommodation mapping, security briefing support, traveller feedback analysis, and escalation logic. It should not be presented as operational security, intelligence work, or real-time threat assessment.

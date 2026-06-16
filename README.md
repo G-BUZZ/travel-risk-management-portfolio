@@ -100,3 +100,30 @@ Real travel risk decisions should rely on official government advice, organisati
 ## Purpose
 
 The purpose of this project is to demonstrate structured analytical support capability in a travel risk management context, with emphasis on documentation quality, source validation, ethical public-source research, and proportionate escalation.
+
+
+## Relevance to Europol Internship 1058 — Travel Risk Management
+
+This project is directly relevant to a junior travel risk management support role because it demonstrates:
+
+- accommodation mapping against security-relevant and practical criteria;
+- structured travel security briefing support;
+- public-source monitoring design without unnecessary personal-data collection;
+- source reliability assessment and uncertainty handling;
+- traveller feedback categorisation and issue tracking;
+- urgent communication triage and escalation logic;
+- clear documentation using synthetic data and non-operational scenarios.
+
+| Internship-related task | Evidence in this project |
+|---|---|
+| Travel risk management process support | `02_methodology.md` |
+| Accommodation list support | `04_accommodation_mapping_matrix.md` and `outputs/` |
+| Security briefing updates | `07_sample_travel_risk_brief.md` |
+| Public-source and media monitoring | `05_social_media_monitoring_framework.md` |
+| Traveller feedback analysis | `08_feedback_analysis.md` |
+| Urgent communication triage | `06_urgent_communications_triage.md` |
+| Ethical and privacy-aware handling | `09_limitations_ethics_privacy.md` |
+| Application wording | `application_materials/` |
+
+The project is intentionally educational, synthetic, and non-operational. It is designed to show structured thinking, documentation discipline, source validation, and proportionate risk communication rather than real-time intelligence or official security advice.
+
